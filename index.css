@@ -1,0 +1,120 @@
+/*Progresso, Porcentagem*/
+
+.presidente 
+{
+	margin-top: 100px;
+}
+
+.presidente h1
+{
+	font-size: 45px;
+}
+
+.presidente h4
+{
+	float: right;
+	margin-top: -50px;
+	color: #9A9A9A
+}
+
+.presidente p
+{
+	margin-top: 20px;
+}
+
+/*Fim Progresso, Porcentagem*/
+
+/*Candidatos*/
+
+h3
+{
+	font-size: 23px;
+	padding-top: -25px;
+}
+
+.candidatos
+{
+	margin-top: 50px;
+}
+
+.nome a
+{
+	margin-top: 75px;
+	font-size: 20px;
+}
+
+.foto 
+{
+	float: left;
+
+}
+
+.foto img
+{
+	border: solid 1px #9A9A9A;
+	border-radius: 100%;
+	width: 70%;
+	height: auto;
+
+}
+
+.progress
+{
+	height: 2px;
+	margin-top: 1px
+}
+
+.porcentagem
+{
+	margin-top: -50px;
+	float: right;
+}
+
+.porcentagem a
+{
+	float: right;
+}
+
+.nome span
+{
+	font-size: 15px;
+	border: solid 2px #34C771;
+	color: #34C771;
+}
+
+.total
+{
+	margin-top: 45px;
+	margin-bottom: 20px;
+}
+
+.validos
+{
+	margin-left: 120px;
+	margin-top: -75px;
+}
+
+.brancos
+{
+	margin-left: 300px;
+	margin-top: -55px;
+}
+
+.nulos
+{
+	margin-left: 450px;
+	margin-top: -55px;
+}
+
+.abs
+{
+	margin-left: 600px;
+	margin-top: -55px;
+}
+
+.principal
+{
+	margin: 550px;
+	font-size: 50px;
+}
+
